@@ -7,7 +7,7 @@
     "test": "npm test"
   },
   "author": "Abhishek Deb (vikz91.deb@gmail.com, abhishekdeb91@gmail.com)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "auto-bind": "^3.0.0",
     "cookie-parser": "^1.4.4",
@@ -16,5 +16,29 @@
     "express": "^4.17.1",
     "http-errors": "^1.7.3",
     "morgan": "^1.9.1"
-  }
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikz91/restframe.git"
+  },
+  "keywords": [
+    "Easy",
+    "REST",
+    "API",
+    "quick",
+    "Rest",
+    "api",
+    "generator",
+    "microservice",
+    "rest",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/vikz91/restframe/issues"
+  },
+  "homepage": "https://github.com/vikz91/restframe#readme"
 }
